@@ -3,9 +3,9 @@
 A simple interactive dashboard built with Chart.js, displaying multiple chart types (line, pie, and bar) with example data.
 
 ## Demo
-![Demo](gif_chart.gif)
+![Demo](Chart/gif_chart.gif)
 
-## ✨ Features
+## Features
 - Line chart showing daily visits  
 - Pie chart for country distribution  
 - Bar chart for audience by age  
